@@ -5,12 +5,16 @@ repo: subaru-sciop-status # The name of this repository
 sites:
   - name: PSF Spectral Simulator
     url: https://pfs-etc.naoj.hawaii.edu/etc/app
+    method: GET
   - name: PFS Target Uploader
     url: https://pfs-etc.naoj.hawaii.edu/uploader/
+    method: GET
   - name: PFS Flux Standard Star Lookup
     url: https://pfs-etc.naoj.hawaii.edu/fluxstd-lookup/app
+    method: GET
   - name: PSF Target Database Docs
     url: https://pfs-etc.naoj.hawaii.edu/targetdb/
+    method: GET
 
 status-website:
   # # Add your custom domain name, or remove the `cname` line if you don't have a domain
