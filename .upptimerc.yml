@@ -2,6 +2,9 @@
 owner: Subaru-SciOp # Your GitHub organization or username, where this repository lives
 repo: subaru-sciop-status # The name of this repository
 
+# add delay between scans
+delay: 5000
+
 sites:
   - name: PSF Spectral Simulator
     url: https://pfs-etc.naoj.hawaii.edu/etc/app
