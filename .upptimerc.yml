@@ -35,14 +35,12 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  # disallow search engine crawling
+  robotsText: "User-agent: * \n Disallow: /"
 
 workflowSchedule:
   # run uptime workflow every 30 minutes
   uptime: "*/30 * * * *"
-
-status-website:
-  # disallow search engine crawling
-  robotsText: "User-agent: * \n Disallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
