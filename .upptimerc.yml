@@ -48,7 +48,7 @@ status-website:
 
 workflowSchedule:
   # run uptime workflow every 30 minutes
-  uptime: "*/30 * * * *"
+  uptime: "*/15 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
