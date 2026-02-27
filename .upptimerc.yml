@@ -24,8 +24,8 @@ sites:
     __dangerous__insecure: true
   # Test purpose
   - name: Notification Test
-    url: https://mock.httpstatus.io/503
-    # url: https://mock.httpstatus.io/200
+    # url: https://mock.httpstatus.io/503
+    url: https://mock.httpstatus.io/200
     method: GET
 
 status-website:
