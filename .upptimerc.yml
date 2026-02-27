@@ -24,7 +24,7 @@ sites:
     __dangerous__insecure: true
   # ↓ ここから下の一時的なテスト用サイトを追記 ↓
   - name: Email Notification Test
-    url: https://httpstat.us/503
+    url: https://httpstat.us/200
     method: GET
 
 status-website:
