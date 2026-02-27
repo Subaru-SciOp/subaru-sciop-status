@@ -22,9 +22,10 @@ sites:
     url: https://pfs-etc.naoj.hawaii.edu/targetdb/
     method: GET
     __dangerous__insecure: true
-  # ↓ ここから下の一時的なテスト用サイトを追記 ↓
-  - name: Email Notification Test
-    url: https://httpstat.us/200
+  # Test purpose
+  - name: Notification Test
+    url: https://mock.httpstatus.io/503
+    # url: https://mock.httpstatus.io/200
     method: GET
 
 status-website:
