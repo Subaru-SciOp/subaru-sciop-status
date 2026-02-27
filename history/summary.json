@@ -68,11 +68,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pfs-etc.naoj.hawaii.edu.ico",
     "slug": "psf-target-database-docs",
     "status": "up",
-    "uptime": "84.37%",
+    "uptime": "84.38%",
     "uptimeDay": "83.60%",
-    "uptimeWeek": "84.37%",
-    "uptimeMonth": "84.37%",
-    "uptimeYear": "84.37%",
+    "uptimeWeek": "84.38%",
+    "uptimeMonth": "84.38%",
+    "uptimeYear": "84.38%",
     "time": 225,
     "timeDay": 231,
     "timeWeek": 225,
@@ -89,18 +89,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mock.httpstatus.io.ico",
     "slug": "notification-test",
     "status": "up",
-    "uptime": "3.44%",
-    "uptimeDay": "3.44%",
-    "uptimeWeek": "3.44%",
-    "uptimeMonth": "3.44%",
-    "uptimeYear": "3.44%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 275,
     "timeDay": 275,
     "timeWeek": 275,
     "timeMonth": 275,
     "timeYear": 275,
-    "dailyMinutesDown": {
-      "2026-02-27": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
