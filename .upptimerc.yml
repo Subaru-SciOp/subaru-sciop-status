@@ -22,6 +22,9 @@ sites:
     url: https://pfs-etc.naoj.hawaii.edu/targetdb/
     method: GET
     __dangerous__insecure: true
+  - name: PFS Jira
+    url: https://pfs-jira.naoj.org/jira/
+    method: GET
   # # Test purpose
   # - name: Notification Test
   #   # url: https://mock.httpstatus.io/503
