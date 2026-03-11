@@ -1,7 +1,7 @@
 url: https://pfs-etc.naoj.hawaii.edu/uploader/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-03-11T13:03:56.082Z
+status: up
+code: 200
+responseTime: 438
+lastUpdated: 2026-03-11T14:12:31.971Z
 startTime: 2026-02-25T21:10:49.434Z
 generator: Upptime <https://github.com/upptime/upptime>
