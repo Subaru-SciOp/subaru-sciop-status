@@ -1,7 +1,7 @@
 url: https://pfs-etc.naoj.hawaii.edu/targetdb/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-03-20T11:40:46.830Z
+status: up
+code: 200
+responseTime: 254
+lastUpdated: 2026-03-20T12:01:00.180Z
 startTime: 2026-02-25T21:10:53.408Z
 generator: Upptime <https://github.com/upptime/upptime>
