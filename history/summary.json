@@ -4,18 +4,19 @@
     "url": "https://pfs-etc.naoj.hawaii.edu/etc/app",
     "icon": "https://icons.duckduckgo.com/ip3/pfs-etc.naoj.hawaii.edu.ico",
     "slug": "psf-spectral-simulator",
-    "status": "up",
-    "uptime": "89.89%",
-    "uptimeDay": "91.42%",
-    "uptimeWeek": "84.34%",
-    "uptimeMonth": "85.32%",
-    "uptimeYear": "89.89%",
+    "status": "down",
+    "uptime": "90.01%",
+    "uptimeDay": "91.24%",
+    "uptimeWeek": "85.17%",
+    "uptimeMonth": "85.62%",
+    "uptimeYear": "90.01%",
     "time": 899,
     "timeDay": 852,
-    "timeWeek": 850,
-    "timeMonth": 932,
+    "timeWeek": 855,
+    "timeMonth": 893,
     "timeYear": 899,
     "dailyMinutesDown": {
+      "2026-04-16": 3,
       "2026-04-15": 124,
       "2026-04-13": 269,
       "2026-04-12": 269,
@@ -48,7 +49,7 @@
       "2026-03-16": 396,
       "2026-03-15": 104,
       "2026-03-14": 278,
-      "2026-03-13": 266
+      "2026-03-13": 218
     }
   },
   {
@@ -56,18 +57,19 @@
     "url": "https://pfs-etc.naoj.hawaii.edu/uploader/",
     "icon": "https://icons.duckduckgo.com/ip3/pfs-etc.naoj.hawaii.edu.ico",
     "slug": "pfs-target-uploader",
-    "status": "up",
-    "uptime": "89.96%",
-    "uptimeDay": "91.46%",
-    "uptimeWeek": "84.41%",
-    "uptimeMonth": "85.41%",
-    "uptimeYear": "89.96%",
+    "status": "down",
+    "uptime": "90.08%",
+    "uptimeDay": "91.31%",
+    "uptimeWeek": "85.24%",
+    "uptimeMonth": "85.71%",
+    "uptimeYear": "90.08%",
     "time": 478,
     "timeDay": 470,
     "timeWeek": 472,
     "timeMonth": 479,
     "timeYear": 478,
     "dailyMinutesDown": {
+      "2026-04-16": 2,
       "2026-04-15": 123,
       "2026-04-13": 268,
       "2026-04-12": 269,
@@ -100,7 +102,7 @@
       "2026-03-16": 395,
       "2026-03-15": 102,
       "2026-03-14": 274,
-      "2026-03-13": 263
+      "2026-03-13": 216
     }
   },
   {
@@ -108,18 +110,19 @@
     "url": "https://pfs-etc.naoj.hawaii.edu/fluxstd-lookup/app",
     "icon": "https://icons.duckduckgo.com/ip3/pfs-etc.naoj.hawaii.edu.ico",
     "slug": "pfs-flux-standard-star-lookup",
-    "status": "up",
-    "uptime": "90.03%",
-    "uptimeDay": "91.49%",
-    "uptimeWeek": "84.49%",
-    "uptimeMonth": "85.51%",
-    "uptimeYear": "90.03%",
+    "status": "down",
+    "uptime": "90.15%",
+    "uptimeDay": "91.39%",
+    "uptimeWeek": "85.32%",
+    "uptimeMonth": "85.81%",
+    "uptimeYear": "90.15%",
     "time": 191,
     "timeDay": 194,
     "timeWeek": 186,
     "timeMonth": 190,
     "timeYear": 191,
     "dailyMinutesDown": {
+      "2026-04-16": 1,
       "2026-04-15": 123,
       "2026-04-13": 267,
       "2026-04-12": 266,
@@ -152,7 +155,7 @@
       "2026-03-16": 394,
       "2026-03-15": 100,
       "2026-03-14": 274,
-      "2026-03-13": 262
+      "2026-03-13": 215
     }
   },
   {
@@ -160,18 +163,19 @@
     "url": "https://pfs-etc.naoj.hawaii.edu/targetdb/",
     "icon": "https://icons.duckduckgo.com/ip3/pfs-etc.naoj.hawaii.edu.ico",
     "slug": "psf-target-database-docs",
-    "status": "up",
-    "uptime": "90.09%",
-    "uptimeDay": "91.52%",
-    "uptimeWeek": "84.56%",
-    "uptimeMonth": "85.61%",
-    "uptimeYear": "90.09%",
+    "status": "down",
+    "uptime": "90.21%",
+    "uptimeDay": "91.46%",
+    "uptimeWeek": "85.40%",
+    "uptimeMonth": "85.91%",
+    "uptimeYear": "90.21%",
     "time": 225,
     "timeDay": 245,
-    "timeWeek": 237,
-    "timeMonth": 225,
+    "timeWeek": 238,
+    "timeMonth": 226,
     "timeYear": 225,
     "dailyMinutesDown": {
+      "2026-04-16": 1,
       "2026-04-15": 122,
       "2026-04-13": 266,
       "2026-04-12": 265,
@@ -204,7 +208,7 @@
       "2026-03-16": 393,
       "2026-03-15": 99,
       "2026-03-14": 272,
-      "2026-03-13": 259
+      "2026-03-13": 213
     }
   },
   {
@@ -212,18 +216,19 @@
     "url": "https://pfs-jira.naoj.org/jira/",
     "icon": "https://icons.duckduckgo.com/ip3/pfs-jira.naoj.org.ico",
     "slug": "pfs-jira",
-    "status": "up",
-    "uptime": "89.58%",
-    "uptimeDay": "81.74%",
-    "uptimeWeek": "82.11%",
-    "uptimeMonth": "85.12%",
-    "uptimeYear": "89.58%",
+    "status": "down",
+    "uptime": "89.83%",
+    "uptimeDay": "91.53%",
+    "uptimeWeek": "82.95%",
+    "uptimeMonth": "85.43%",
+    "uptimeYear": "89.83%",
     "time": 1370,
-    "timeDay": 1226,
-    "timeWeek": 1451,
-    "timeMonth": 1356,
+    "timeDay": 1220,
+    "timeWeek": 1459,
+    "timeMonth": 1359,
     "timeYear": 1370,
     "dailyMinutesDown": {
+      "2026-04-16": 0,
       "2026-04-15": 343,
       "2026-04-14": 33,
       "2026-04-13": 265,
@@ -257,7 +262,7 @@
       "2026-03-16": 391,
       "2026-03-15": 97,
       "2026-03-14": 270,
-      "2026-03-13": 212
+      "2026-03-13": 81
     }
   }
 ]
