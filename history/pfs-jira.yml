@@ -1,7 +1,7 @@
 url: https://pfs-jira.naoj.org/jira/
-status: down
-code: 502
-responseTime: 19216
-lastUpdated: 2026-04-16T23:58:51.259Z
+status: up
+code: 200
+responseTime: 1330
+lastUpdated: 2026-04-17T03:35:58.866Z
 startTime: 2026-02-27T05:50:04.321Z
 generator: Upptime <https://github.com/upptime/upptime>
