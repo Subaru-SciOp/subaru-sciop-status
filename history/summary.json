@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pfs-etc.naoj.hawaii.edu.ico",
     "slug": "psf-spectral-simulator",
     "status": "up",
-    "uptime": "90.38%",
-    "uptimeDay": "67.66%",
-    "uptimeWeek": "80.99%",
-    "uptimeMonth": "83.57%",
-    "uptimeYear": "90.38%",
+    "uptime": "90.32%",
+    "uptimeDay": "73.17%",
+    "uptimeWeek": "81.14%",
+    "uptimeMonth": "83.58%",
+    "uptimeYear": "90.32%",
     "time": 909,
     "timeDay": 1395,
     "timeWeek": 978,
     "timeMonth": 917,
     "timeYear": 909,
     "dailyMinutesDown": {
-      "2026-04-19": 466,
+      "2026-04-19": 461,
       "2026-04-18": 416,
       "2026-04-17": 358,
       "2026-04-16": 284,
@@ -46,7 +46,7 @@
       "2026-03-22": 440,
       "2026-03-21": 40,
       "2026-03-20": 186,
-      "2026-03-19": 156
+      "2026-03-19": 217
     }
   },
   {
@@ -55,18 +55,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pfs-etc.naoj.hawaii.edu.ico",
     "slug": "pfs-target-uploader",
     "status": "up",
-    "uptime": "90.45%",
-    "uptimeDay": "67.90%",
-    "uptimeWeek": "81.09%",
-    "uptimeMonth": "83.68%",
-    "uptimeYear": "90.45%",
+    "uptime": "90.39%",
+    "uptimeDay": "73.33%",
+    "uptimeWeek": "81.24%",
+    "uptimeMonth": "83.69%",
+    "uptimeYear": "90.39%",
     "time": 477,
     "timeDay": 465,
     "timeWeek": 470,
     "timeMonth": 479,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2026-04-19": 463,
+      "2026-04-19": 458,
       "2026-04-18": 414,
       "2026-04-17": 356,
       "2026-04-16": 283,
@@ -96,7 +96,7 @@
       "2026-03-22": 438,
       "2026-03-21": 39,
       "2026-03-20": 184,
-      "2026-03-19": 154
+      "2026-03-19": 215
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pfs-etc.naoj.hawaii.edu.ico",
     "slug": "pfs-flux-standard-star-lookup",
     "status": "up",
-    "uptime": "90.51%",
-    "uptimeDay": "68.13%",
-    "uptimeWeek": "81.20%",
-    "uptimeMonth": "83.78%",
-    "uptimeYear": "90.51%",
+    "uptime": "90.45%",
+    "uptimeDay": "73.49%",
+    "uptimeWeek": "81.33%",
+    "uptimeMonth": "83.79%",
+    "uptimeYear": "90.45%",
     "time": 191,
     "timeDay": 185,
     "timeWeek": 189,
     "timeMonth": 191,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2026-04-19": 459,
+      "2026-04-19": 455,
       "2026-04-18": 411,
       "2026-04-17": 352,
       "2026-04-16": 282,
@@ -146,7 +146,7 @@
       "2026-03-22": 432,
       "2026-03-21": 39,
       "2026-03-20": 183,
-      "2026-03-19": 154
+      "2026-03-19": 214
     }
   },
   {
@@ -155,18 +155,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pfs-etc.naoj.hawaii.edu.ico",
     "slug": "psf-target-database-docs",
     "status": "up",
-    "uptime": "90.57%",
-    "uptimeDay": "68.36%",
-    "uptimeWeek": "81.30%",
-    "uptimeMonth": "83.89%",
-    "uptimeYear": "90.57%",
+    "uptime": "90.51%",
+    "uptimeDay": "73.65%",
+    "uptimeWeek": "81.43%",
+    "uptimeMonth": "83.90%",
+    "uptimeYear": "90.51%",
     "time": 229,
     "timeDay": 298,
     "timeWeek": 257,
     "timeMonth": 232,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-04-19": 456,
+      "2026-04-19": 452,
       "2026-04-18": 410,
       "2026-04-17": 351,
       "2026-04-16": 281,
@@ -196,7 +196,7 @@
       "2026-03-22": 430,
       "2026-03-21": 38,
       "2026-03-20": 180,
-      "2026-03-19": 152
+      "2026-03-19": 212
     }
   },
   {
@@ -205,18 +205,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pfs-jira.naoj.org.ico",
     "slug": "pfs-jira",
     "status": "up",
-    "uptime": "89.96%",
-    "uptimeDay": "68.59%",
-    "uptimeWeek": "76.72%",
-    "uptimeMonth": "82.92%",
-    "uptimeYear": "89.96%",
+    "uptime": "89.92%",
+    "uptimeDay": "73.80%",
+    "uptimeWeek": "76.84%",
+    "uptimeMonth": "82.93%",
+    "uptimeYear": "89.92%",
     "time": 1440,
     "timeDay": 1197,
     "timeWeek": 2006,
     "timeMonth": 1429,
     "timeYear": 1440,
     "dailyMinutesDown": {
-      "2026-04-19": 452,
+      "2026-04-19": 449,
       "2026-04-18": 408,
       "2026-04-17": 564,
       "2026-04-16": 281,
@@ -246,7 +246,8 @@
       "2026-03-23": 183,
       "2026-03-22": 424,
       "2026-03-21": 38,
-      "2026-03-20": 179
+      "2026-03-20": 179,
+      "2026-03-19": 43
     }
   }
 ]
