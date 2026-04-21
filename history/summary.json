@@ -203,17 +203,17 @@
     "url": "https://pfs-jira.naoj.org/jira/",
     "icon": "https://icons.duckduckgo.com/ip3/pfs-jira.naoj.org.ico",
     "slug": "pfs-jira",
-    "status": "up",
-    "uptime": "90.06%",
-    "uptimeDay": "79.91%",
+    "status": "down",
+    "uptime": "90.14%",
+    "uptimeDay": "79.89%",
     "uptimeWeek": "74.04%",
-    "uptimeMonth": "82.48%",
-    "uptimeYear": "90.06%",
-    "time": 1445,
-    "timeDay": 1705,
-    "timeWeek": 1968,
-    "timeMonth": 1439,
-    "timeYear": 1445,
+    "uptimeMonth": "82.59%",
+    "uptimeYear": "90.14%",
+    "time": 1443,
+    "timeDay": 1596,
+    "timeWeek": 1943,
+    "timeMonth": 1436,
+    "timeYear": 1443,
     "dailyMinutesDown": {
       "2026-04-21": 245,
       "2026-04-20": 295,
@@ -245,7 +245,7 @@
       "2026-03-25": 183,
       "2026-03-24": 100,
       "2026-03-23": 183,
-      "2026-03-22": 298
+      "2026-03-22": 246
     }
   }
 ]
