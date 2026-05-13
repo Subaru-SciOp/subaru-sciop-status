@@ -19,9 +19,8 @@ sites:
     method: GET
     __dangerous__insecure: true
   - name: PSF Target Database Docs
-    url: https://pfs-etc.naoj.hawaii.edu/targetdb/
+    url: https://subaru-pfs.github.io/ets_target_database/
     method: GET
-    __dangerous__insecure: true
   - name: PFS Jira
     url: https://pfs-jira.naoj.org/jira/
     method: GET
