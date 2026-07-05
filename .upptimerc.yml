@@ -7,11 +7,11 @@ delay: 5000
 
 sites:
   - name: PSF Spectral Simulator
-    url: https://pfs-etc.naoj.hawaii.edu/etc/app
+    url: https://pfs-etc.naoj.hawaii.edu/etc/doc/index.html
     method: GET
     __dangerous__insecure: true
-  - name: PFS Target Uploader
-    url: https://pfs-etc.naoj.hawaii.edu/uploader/
+  - name: PFS Target Uploader Docs
+    url: https://pfs-etc.naoj.hawaii.edu/uploader/doc/index.html
     method: GET
     __dangerous__insecure: true
   - name: PFS Flux Standard Star Lookup
