@@ -6,7 +6,7 @@
     "slug": "psf-spectral-simulator",
     "status": "down",
     "uptime": "85.18%",
-    "uptimeDay": "98.96%",
+    "uptimeDay": "98.93%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "57.25%",
     "uptimeYear": "85.18%",
@@ -64,7 +64,7 @@
     "slug": "pfs-target-uploader-docs",
     "status": "down",
     "uptime": "82.92%",
-    "uptimeDay": "99.30%",
+    "uptimeDay": "99.27%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "82.92%",
     "uptimeYear": "82.92%",
@@ -79,7 +79,7 @@
       "2026-07-07": 632,
       "2026-07-08": 910,
       "2026-07-09": 606,
-      "2026-07-19": 10
+      "2026-07-19": 11
     }
   },
   {
@@ -89,8 +89,8 @@
     "slug": "pfs-flux-standard-star-lookup",
     "status": "down",
     "uptime": "85.65%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "58.64%",
     "uptimeYear": "85.65%",
     "time": 414,
@@ -137,7 +137,7 @@
       "2026-07-07": 613,
       "2026-07-08": 896,
       "2026-07-09": 601,
-      "2026-07-19": 5
+      "2026-07-19": 6
     }
   },
   {
@@ -203,8 +203,8 @@
     "slug": "pfs-jira",
     "status": "down",
     "uptime": "85.74%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "59.33%",
     "uptimeYear": "85.74%",
     "time": 1366,
@@ -251,7 +251,7 @@
       "2026-07-07": 592,
       "2026-07-08": 881,
       "2026-07-09": 596,
-      "2026-07-19": 0
+      "2026-07-19": 1
     }
   }
 ]
