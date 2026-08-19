@@ -1,7 +1,7 @@
 url: https://pfs-etc.naoj.hawaii.edu/fluxstd-lookup/app
-status: up
-code: 200
-responseTime: 536
-lastUpdated: 2026-08-18T23:41:48.458Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-08-19T00:01:51.109Z
 startTime: 2026-02-25T21:10:52.257Z
 generator: Upptime <https://github.com/upptime/upptime>
