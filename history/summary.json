@@ -6,9 +6,9 @@
     "slug": "psf-spectral-simulator",
     "status": "down",
     "uptime": "95.71%",
-    "uptimeDay": "67.82%",
-    "uptimeWeek": "58.72%",
-    "uptimeMonth": "78.16%",
+    "uptimeDay": "66.96%",
+    "uptimeWeek": "58.60%",
+    "uptimeMonth": "78.13%",
     "uptimeYear": "95.71%",
     "time": 873,
     "timeDay": 1174,
@@ -47,7 +47,7 @@
       "2026-08-18": 382,
       "2026-08-19": 376,
       "2026-08-20": 450,
-      "2026-08-21": 15
+      "2026-08-21": 27
     }
   },
   {
@@ -56,11 +56,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pfs-etc.naoj.hawaii.edu.ico",
     "slug": "pfs-target-uploader-docs",
     "status": "down",
-    "uptime": "84.78%",
-    "uptimeDay": "70.84%",
-    "uptimeWeek": "60.65%",
-    "uptimeMonth": "78.77%",
-    "uptimeYear": "84.78%",
+    "uptime": "84.76%",
+    "uptimeDay": "69.98%",
+    "uptimeWeek": "60.53%",
+    "uptimeMonth": "78.74%",
+    "uptimeYear": "84.76%",
     "time": 876,
     "timeDay": 549,
     "timeWeek": 1049,
@@ -97,7 +97,7 @@
       "2026-08-18": 351,
       "2026-08-19": 342,
       "2026-08-20": 412,
-      "2026-08-21": 10
+      "2026-08-21": 22
     }
   },
   {
@@ -107,9 +107,9 @@
     "slug": "pfs-flux-standard-star-lookup",
     "status": "down",
     "uptime": "96.09%",
-    "uptimeDay": "73.86%",
-    "uptimeWeek": "62.57%",
-    "uptimeMonth": "80.28%",
+    "uptimeDay": "73.01%",
+    "uptimeWeek": "62.45%",
+    "uptimeMonth": "80.25%",
     "uptimeYear": "96.09%",
     "time": 493,
     "timeDay": 543,
@@ -148,7 +148,7 @@
       "2026-08-18": 325,
       "2026-08-19": 307,
       "2026-08-20": 375,
-      "2026-08-21": 5
+      "2026-08-21": 18
     }
   },
   {
@@ -214,9 +214,9 @@
     "slug": "pfs-jira",
     "status": "down",
     "uptime": "96.20%",
-    "uptimeDay": "76.87%",
-    "uptimeWeek": "63.22%",
-    "uptimeMonth": "81.05%",
+    "uptimeDay": "76.02%",
+    "uptimeWeek": "63.10%",
+    "uptimeMonth": "81.02%",
     "uptimeYear": "96.20%",
     "time": 1331,
     "timeDay": 1242,
@@ -255,7 +255,7 @@
       "2026-08-18": 296,
       "2026-08-19": 270,
       "2026-08-20": 335,
-      "2026-08-21": 0
+      "2026-08-21": 13
     }
   }
 ]
