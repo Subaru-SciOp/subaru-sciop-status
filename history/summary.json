@@ -4,15 +4,15 @@
     "url": "https://pfs-etc.naoj.hawaii.edu/etc/doc/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/pfs-etc.naoj.hawaii.edu.ico",
     "slug": "psf-spectral-simulator",
-    "status": "down",
-    "uptime": "96.89%",
-    "uptimeDay": "64.22%",
+    "status": "up",
+    "uptime": "96.87%",
+    "uptimeDay": "62.34%",
     "uptimeWeek": "66.35%",
-    "uptimeMonth": "81.64%",
-    "uptimeYear": "96.89%",
+    "uptimeMonth": "81.57%",
+    "uptimeYear": "96.87%",
     "time": 862,
-    "timeDay": 667,
-    "timeWeek": 707,
+    "timeDay": 679,
+    "timeWeek": 709,
     "timeMonth": 796,
     "timeYear": 862,
     "dailyMinutesDown": {
@@ -35,7 +35,7 @@
       "2026-08-21": 455,
       "2026-08-22": 279,
       "2026-08-23": 501,
-      "2026-08-24": 15
+      "2026-08-24": 44
     }
   },
   {
@@ -43,16 +43,16 @@
     "url": "https://pfs-etc.naoj.hawaii.edu/uploader/doc/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/pfs-etc.naoj.hawaii.edu.ico",
     "slug": "pfs-target-uploader-docs",
-    "status": "down",
-    "uptime": "89.34%",
-    "uptimeDay": "68.25%",
-    "uptimeWeek": "68.65%",
-    "uptimeMonth": "82.74%",
-    "uptimeYear": "89.34%",
+    "status": "up",
+    "uptime": "89.31%",
+    "uptimeDay": "66.20%",
+    "uptimeWeek": "68.66%",
+    "uptimeMonth": "82.67%",
+    "uptimeYear": "89.31%",
     "time": 830,
-    "timeDay": 601,
-    "timeWeek": 938,
-    "timeMonth": 886,
+    "timeDay": 611,
+    "timeWeek": 934,
+    "timeMonth": 885,
     "timeYear": 830,
     "dailyMinutesDown": {
       "2026-08-06": 169,
@@ -74,7 +74,7 @@
       "2026-08-21": 420,
       "2026-08-22": 252,
       "2026-08-23": 448,
-      "2026-08-24": 10
+      "2026-08-24": 40
     }
   },
   {
@@ -82,16 +82,16 @@
     "url": "https://pfs-etc.naoj.hawaii.edu/fluxstd-lookup/app",
     "icon": "https://icons.duckduckgo.com/ip3/pfs-etc.naoj.hawaii.edu.ico",
     "slug": "pfs-flux-standard-star-lookup",
-    "status": "down",
-    "uptime": "97.26%",
-    "uptimeDay": "72.28%",
+    "status": "up",
+    "uptime": "97.24%",
+    "uptimeDay": "70.22%",
     "uptimeWeek": "70.96%",
-    "uptimeMonth": "83.83%",
-    "uptimeYear": "97.26%",
+    "uptimeMonth": "83.76%",
+    "uptimeYear": "97.24%",
     "time": 495,
-    "timeDay": 556,
-    "timeWeek": 1016,
-    "timeMonth": 757,
+    "timeDay": 557,
+    "timeWeek": 1008,
+    "timeMonth": 755,
     "timeYear": 495,
     "dailyMinutesDown": {
       "2026-08-06": 164,
@@ -113,7 +113,7 @@
       "2026-08-21": 386,
       "2026-08-22": 224,
       "2026-08-23": 393,
-      "2026-08-24": 5
+      "2026-08-24": 35
     }
   },
   {
@@ -177,17 +177,17 @@
     "url": "https://pfs-jira.naoj.org/jira/",
     "icon": "https://icons.duckduckgo.com/ip3/pfs-jira.naoj.org.ico",
     "slug": "pfs-jira",
-    "status": "down",
-    "uptime": "97.37%",
-    "uptimeDay": "76.30%",
-    "uptimeWeek": "71.97%",
-    "uptimeMonth": "84.62%",
-    "uptimeYear": "97.37%",
-    "time": 1325,
-    "timeDay": 1148,
-    "timeWeek": 1156,
+    "status": "up",
+    "uptime": "97.36%",
+    "uptimeDay": "74.24%",
+    "uptimeWeek": "71.98%",
+    "uptimeMonth": "84.55%",
+    "uptimeYear": "97.36%",
+    "time": 1324,
+    "timeDay": 1154,
+    "timeWeek": 1157,
     "timeMonth": 1198,
-    "timeYear": 1325,
+    "timeYear": 1324,
     "dailyMinutesDown": {
       "2026-08-06": 159,
       "2026-08-05": 42,
@@ -208,7 +208,7 @@
       "2026-08-21": 352,
       "2026-08-22": 197,
       "2026-08-23": 341,
-      "2026-08-24": 0
+      "2026-08-24": 30
     }
   }
 ]
