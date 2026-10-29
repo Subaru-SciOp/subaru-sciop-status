@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pfs-etc.naoj.hawaii.edu.ico",
     "slug": "psf-spectral-simulator",
     "status": "down",
-    "uptime": "89.85%",
-    "uptimeDay": "82.03%",
+    "uptime": "89.84%",
+    "uptimeDay": "79.79%",
     "uptimeWeek": "68.22%",
     "uptimeMonth": "66.75%",
-    "uptimeYear": "89.85%",
+    "uptimeYear": "89.84%",
     "time": 825,
     "timeDay": 760,
     "timeWeek": 651,
@@ -81,7 +81,7 @@
       "2026-10-26": 45,
       "2026-10-27": 340,
       "2026-10-28": 244,
-      "2026-10-29": 15
+      "2026-10-29": 47
     }
   },
   {
@@ -90,11 +90,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pfs-etc.naoj.hawaii.edu.ico",
     "slug": "pfs-target-uploader-docs",
     "status": "down",
-    "uptime": "78.52%",
-    "uptimeDay": "82.70%",
+    "uptime": "78.51%",
+    "uptimeDay": "80.47%",
     "uptimeWeek": "68.65%",
-    "uptimeMonth": "67.16%",
-    "uptimeYear": "78.52%",
+    "uptimeMonth": "67.14%",
+    "uptimeYear": "78.51%",
     "time": 749,
     "timeDay": 676,
     "timeWeek": 599,
@@ -166,7 +166,7 @@
       "2026-10-26": 45,
       "2026-10-27": 335,
       "2026-10-28": 239,
-      "2026-10-29": 10
+      "2026-10-29": 42
     }
   },
   {
@@ -175,11 +175,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pfs-etc.naoj.hawaii.edu.ico",
     "slug": "pfs-flux-standard-star-lookup",
     "status": "down",
-    "uptime": "90.12%",
-    "uptimeDay": "83.38%",
+    "uptime": "90.11%",
+    "uptimeDay": "81.14%",
     "uptimeWeek": "69.09%",
-    "uptimeMonth": "67.57%",
-    "uptimeYear": "90.12%",
+    "uptimeMonth": "67.54%",
+    "uptimeYear": "90.11%",
     "time": 541,
     "timeDay": 493,
     "timeWeek": 502,
@@ -251,7 +251,7 @@
       "2026-10-26": 46,
       "2026-10-27": 330,
       "2026-10-28": 234,
-      "2026-10-29": 5
+      "2026-10-29": 37
     }
   },
   {
@@ -316,11 +316,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pfs-jira.naoj.org.ico",
     "slug": "pfs-jira",
     "status": "down",
-    "uptime": "90.43%",
-    "uptimeDay": "84.05%",
+    "uptime": "90.42%",
+    "uptimeDay": "81.82%",
     "uptimeWeek": "69.52%",
-    "uptimeMonth": "67.97%",
-    "uptimeYear": "90.43%",
+    "uptimeMonth": "67.94%",
+    "uptimeYear": "90.42%",
     "time": 1310,
     "timeDay": 1114,
     "timeWeek": 1048,
@@ -392,7 +392,7 @@
       "2026-10-26": 46,
       "2026-10-27": 325,
       "2026-10-28": 229,
-      "2026-10-29": 0
+      "2026-10-29": 33
     }
   }
 ]
